@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh2YzJ0dzhqbmcwOHdoYnozZjF1ajEwZDh4NHZ6NnRvbzNtYWxrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -36,18 +42,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh2YzJ0dzhqbmcwOHdoYnozZjF1ajEwZDh4NHZ6NnRvbzNtYWxrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ApiBaltaci&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ApiBaltaci&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ApiBaltaci/ApiBaltaci/output/snake.svg" alt="Snake animation" />
 
