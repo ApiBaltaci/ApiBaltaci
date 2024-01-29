@@ -1,6 +1,4 @@
-body {
-    background-color: Black
-}
+
 <h1 align="center">Hi 👋! My name is Alperen.</h1>
 
 ###
