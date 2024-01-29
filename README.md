@@ -53,4 +53,4 @@
 
 ###
 
-![snake gif](https://github.com/ApiBaltaci/ApiBaltaci/blob/output/github-contribution-grid-snake.gif)
+
