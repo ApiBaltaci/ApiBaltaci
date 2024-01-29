@@ -1,3 +1,6 @@
+body {
+    background-color: Black
+
 <h1 align="center">Hi 👋! My name is Alperen.</h1>
 
 ###
@@ -52,3 +55,4 @@
 <img src="https://raw.githubusercontent.com/ApiBaltaci/ApiBaltaci/output/snake.svg" alt="Snake animation" />
 
 ###
+}
